@@ -1,0 +1,6 @@
+[submodule "tools"]
+	path = tools
+	url = https://github.com/xuehaouwa/python-tools.git
+[submodule "tputils"]
+	path = tputils
+	url = https://github.com/xuehaouwa/TP-utils.git
